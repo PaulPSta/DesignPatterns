@@ -6,3 +6,5 @@ Implementation of common design patterns using C#.
 * Behavioral
   * [Command](https://github.com/PaulPSta/DesignPatterns/tree/main/BehavioralPatterns/CommandPattern)
   * [Strategy](https://github.com/PaulPSta/DesignPatterns/tree/main/BehavioralPatterns/StrategyPattern)
+* Structural
+  * [Proxy](https://github.com/PaulPSta/DesignPatterns/tree/main/StructuralPatterns/ProxyPattern)
